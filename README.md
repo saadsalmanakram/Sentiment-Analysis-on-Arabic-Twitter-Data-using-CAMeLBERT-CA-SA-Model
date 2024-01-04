@@ -4,3 +4,5 @@ Model used: CAMeLBERT-CA SA Model
 Model link on Hugging Face: https://huggingface.co/CAMeL-Lab/bert-base-arabic-camelbert-ca-sentiment
 
 This problem of Sentiment Analysis (SA) has been studied well on the English language but not Arabic one. So lets try its in Arabic
+
+Dataset Source: https://archive.ics.uci.edu/dataset/293/twitter+data+set+for+arabic+sentiment+analysis
